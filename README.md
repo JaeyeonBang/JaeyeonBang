@@ -12,7 +12,7 @@ Feel free to reach out for a coffee chat! ☕☕
 M.S, Department of Psychology, Korea University (Seoul, Korea)    
 [Consumer psychology lab (cplab.)](https://www.captainkorea411.kr/) (2023.03~2025.08)       
 
-E-mail: qkdwodus777@korea.ac.kr
+E-mail: jybang727@gmail.com
 
 ### Research Interest
 - Human-Computer Interaction
