@@ -9,8 +9,8 @@ Feel free to reach out for a coffee chat! ☕☕
 ## About me 
 
 
-M.S Student, Department of Psychology, Korea University (Seoul, Korea)    
-[Consumer psychology lab (cplab.)](https://www.captainkorea411.kr/) (2023.03~)       
+M.S, Department of Psychology, Korea University (Seoul, Korea)    
+[Consumer psychology lab (cplab.)](https://www.captainkorea411.kr/) (2023.03~2025.08)       
 
 E-mail: qkdwodus777@korea.ac.kr
 
