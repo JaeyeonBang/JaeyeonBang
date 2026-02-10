@@ -6,11 +6,13 @@ Feel free to reach out for a coffee chat! ☕☕
 
 
 
-## About me 
+## Career & Experiences 
 
+[2023.03\~2025.08] M.S in Psychology @ Department of Psychology, Korea University (Seoul, Korea) [Consumer psychology lab (cplab.)](https://www.captainkorea411.kr/)
+[2025.05\~2025.08] Business Operations Manager @ MindfulConnect (Seoul, Korea) [(Website)](https://mindsos.org/)  
+[2025.09\~2025.02] Trainee @ BoostCamp AI-tech 8th [(Git)](https://github.com/boostcampaitech8/pro-nlp-mrc-nlp-02)
 
-M.S, Department of Psychology, Korea University (Seoul, Korea)    
-[Consumer psychology lab (cplab.)](https://www.captainkorea411.kr/) (2023.03~2025.08)       
+[[Resume written in korean]](https://drive.google.com/file/d/1lzRfKNjvBc-SU1vRg4HcoTV3hpI_g1vf/view?usp=sharing)
 
 E-mail: jybang727@gmail.com
 
@@ -24,7 +26,9 @@ E-mail: jybang727@gmail.com
 
 ### Publication
 - **Bang, J.**, Oh, S., Park, J., Lee, Y., Cho, Y., Park, S., & Kim, T. (2025). The impact of spatial presence on charitable behavior in metaverse: a moderated mediation model of norm message and involvement with charity. _Cyberpsychology, Behavior, and Social Networking [SSCI Q1, IF = 4.2]._ [(Link)](https://www.liebertpub.com/doi/abs/10.1089/cyber.2024.0434) 
-- Moon, J., Kim, S., Jung, Y., **Bang, J.**, & Sung, Y. (in-press). The Effects of Explainability and User Control on Algorithmic Transparency: The Moderating Role of Algorithmic Literacy. _Cyberpsychology, Behavior, and Social Networking [SSCI Q1, IF = 4.2]._ [(Link)](https://www.liebertpub.com/doi/abs/10.1089/cyber.2024.0525)  
+- Moon, J., Kim, S., Jung, Y., **Bang, J.**, & Sung, Y. (2025). The Effects of Explainability and User Control on Algorithmic Transparency: The Moderating Role of Algorithmic Literacy. _Cyberpsychology, Behavior, and Social Networking [SSCI Q1, IF = 4.2]._ [(Link)](https://www.liebertpub.com/doi/abs/10.1089/cyber.2024.0525)
+-  Lee, S., Kim, E.,**Bang, J**., Park, J., Lee, Y., & Kim, T. (2025). Does Using Mobile Phones Make You Less Attractive? Phubbing and Perceptions of Warmth, Competence, and Social Attractiveness. _Cyberpsychology, Behavior, and Social Networking [SSCI Q1, IF = 4.2]_.[(Link)](https://journals.sagepub.com/doi/full/10.1177/21522715251405791)
+-  Lee, S. J., Bang, J., Park, J., Lee, Y., Kim, E., Kim, S., & Kim, T. (2025). Phubbed and turned to my phone, but still disconnected: The psychological consequences of being phubbed and coping through mobile use. _Mobile Media & Communication[SSCI Q1, IF = 1.8]_.[(Link)](https://journals.sagepub.com/doi/abs/10.1177/20501579251384599)
 
 ### Domestic Conference Presentations 
 - **Bang, J.** (2024, November 15). The Effect of Mind wandering and Boredom on habitual/addictive shortform usage. Korean Association of AD & PR Fall Conference 2024. Seoul, Korea. 
@@ -38,8 +42,6 @@ Management and Intentions for Social Interaction. Korea Advertising Society Summ
 - **Bang, J.**, & Park, S. (2023, July 5). The effect of descriptive norm type on prosocial behavior in a metaverse: Focusing on the moderating effect of spatial presence. Korean Society for Consumer and Advertising Psychology Summer Conference 2023, Gangwon-do, Korea.  
 - Kim, T., **Bang, J.**, Seo, J., & Son, K. (2022, November 3). Object detection for Fire Disaster Situation Recognition. Annual Symposium of KIPS, 2022, Gangwon-do, Korea.  
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeYeonBang&layout=compact)
 
 <!--
 **JaeYeonBang/JaeYeonBang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
