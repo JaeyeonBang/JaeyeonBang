@@ -4,7 +4,9 @@ Hi! 🤗 My name is Jaeyeon Bang.
 I'm intrested in AI/new media research based on psychological mechanism.   
 Feel free to reach out for a coffee chat! ☕☕
 
-
+E-mail: jybang727@gmail.com  
+LinkedIn: https://www.linkedin.com/in/jaeyeonbang727/?locale=en-US  
+Blog: https://jaeyeonbang.github.io/
 
 ## Career & Experiences 
 
@@ -14,15 +16,18 @@ Feel free to reach out for a coffee chat! ☕☕
 
 [[Resume written in korean]](https://drive.google.com/file/d/1lzRfKNjvBc-SU1vRg4HcoTV3hpI_g1vf/view?usp=sharing)
 
-E-mail: jybang727@gmail.com
+
+
+### Honors & Awards
+- **1st Place (Main track)** @ Google Tunix Hack - Train a model to show its work (April 2026) [(Link)](https://www.kaggle.com/competitions/google-tunix-hackathon/hackathon-winners)
+  - **Project**: *G-RaR: Rubric-Based Reinforcement Learning for Structured Reasoning in Gemma*
+  - **Details**: Training Gemma-2-2B for Explicit Reasoning with LoRA SFT and LLM-Judge-Based GRPO on TPU
 
 ### Research Interest
 - Human-Computer Interaction
 - LLM
 - New Media
 
-### Additional Skills
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/-SPSS-D70032?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white"/>
 
 ### Publication
 - **Bang, J.**, Oh, S., Park, J., Lee, Y., Cho, Y., Park, S., & Kim, T. (2025). The impact of spatial presence on charitable behavior in metaverse: a moderated mediation model of norm message and involvement with charity. _Cyberpsychology, Behavior, and Social Networking [SSCI Q1, IF = 4.2]._ [(Link)](https://www.liebertpub.com/doi/abs/10.1089/cyber.2024.0434) 
