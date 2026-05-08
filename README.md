@@ -10,9 +10,11 @@ Blog: https://jaeyeonbang.github.io/
 
 ## Career & Experiences 
 
+[2026.03\~] Project Manager @ Frameout [(Website)](https://www.frameout.co.kr/)
+[2025.09\~2025.02] Trainee @ BoostCamp AI-tech 8th [(Git)](https://github.com/boostcampaitech8/pro-nlp-mrc-nlp-02)
 [2023.03\~2025.08] M.S in Psychology @ Department of Psychology, Korea University (Seoul, Korea) [Consumer psychology lab (cplab.)](https://www.captainkorea411.kr/)
 [2025.05\~2025.08] Business Operations Manager @ MindfulConnect (Seoul, Korea) [(Website)](https://mindsos.org/)  
-[2025.09\~2025.02] Trainee @ BoostCamp AI-tech 8th [(Git)](https://github.com/boostcampaitech8/pro-nlp-mrc-nlp-02)
+
 
 [[Resume written in korean]](https://drive.google.com/file/d/1lzRfKNjvBc-SU1vRg4HcoTV3hpI_g1vf/view?usp=sharing)
 
